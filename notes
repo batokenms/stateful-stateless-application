@@ -1,0 +1,15 @@
+Stateful Deployment:
+
+A stateful deployment typically involves deploying applications that require persistent storage or maintain stateful data.
+
+In this example, we'll create a stateful deployment for a WordPress application that uses a MySQL database.
+
+Stateful Deployment YAML (wordpress-deployment.yaml):
+
+Stateless Deployment:
+
+A stateless deployment involves applications that do not require persistent storage and can be easily scaled horizontally. 
+
+In this example, we will create a stateless deployment for an Nginx web server.
+
+Stateless Deployment YAML (nginx-deployment.yaml):
